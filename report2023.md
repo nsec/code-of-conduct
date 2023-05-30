@@ -1,5 +1,5 @@
 # NorthSec 2023 Transparency Report
-NorthSec strives to be an inclusive, friendly, and welcoming community to all people. As a part of our ongoing efforts to promote safe spaces in the tech fields, we:
+NorthSec strives to be an inclusive, friendly, and welcoming community to all people. As a part of our ongoing efforts to promote safer spaces in the tech fields, we:
 
 - explicitly required all attendees, speakers, and sponsors, to adhere to our [Code of Conduct](https://nsec.io/code-of-conduct) during registration.
 - assigned staff members to act as contacts for any reports that the attendees might have.
