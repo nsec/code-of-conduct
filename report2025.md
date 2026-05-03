@@ -7,5 +7,13 @@ NorthSec strives to be an inclusive, friendly, and welcoming community to all pe
 
 We take our code of conduct seriously and in the spirit of transparency, we’re publishing a summary of the reports we received this year.
 
-We appreciate those reports, and we encourage anyone who witnesses a code of conduct violation to report it via the methods listed on [https://nsec.io/code-of-conduct](https://nsec.io/code-of-conduct). NorthSec 2025 had no code of conduct incidents reported to the organizers. 
-The code of conduct committee was, however, made aware of an incident that violated the principles of the code of conduct, involving two staff members. The incident was handled internally by staff and was subsequently discussed during the NorthSec AGM.
+We appreciate those reports, and we encourage anyone who witnesses a code of conduct violation to report it via the methods listed on [https://nsec.io/code-of-conduct](https://nsec.io/code-of-conduct). Anonymized details of reports for 2025 are below:
+
+
+## Incidents
+
+Following NorthSec 2025, here is an anonymized list of CoC-related incidents that occurred during the event:
+
+- An incident involving two staff members was handled internally by staff and was subsequently discussed during the NorthSec AGM.
+
+As we already mentioned, this report is anonymized and published for the sake of maintaining transparency, and to encourage folks in our community to report incidents that might disrupt the atmosphere we are passionate about.
